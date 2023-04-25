@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heyo, I'm Kenny! 👋
+
+I am a first-year at Yale University currently pursuing a double major in Computer Science and East Asian Studies. Here, I am a member of the Yale Computer Society, Yale Dramatic Association, Yale Hackathon, and Yale Student Technology Collaborative. 
 
 <!--
 **kentng01/kentng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
