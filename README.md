@@ -5,7 +5,8 @@
 # <span style="color: DarkSlateGrey">Hello, I'm Ken (he/him) 👋 </span>
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
-*B.S. in Computer Science* and *B.A. in East Asian Studies*.
+*B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
+> `algorithms`, `data structures`, `systems programming`, `oop`, 
 
 Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
