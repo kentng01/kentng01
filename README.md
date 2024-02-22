@@ -1,12 +1,12 @@
 <!-- If you're reading this, here is a wonderful anime recommendation: Suzume no Tojimari -->
 
-<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="33%" />
+<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="33.3%" />
 
 # <span style="color: DarkSlateGrey">Hello, I'm Ken (he/him) 👋 </span>
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
-> `algorithms`, `data structures`, `systems programming`, `oop`, 
+> `algorithms`, `data structures`, `systems programming`, `oop`
 
 Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
