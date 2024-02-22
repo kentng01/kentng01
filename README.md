@@ -1,12 +1,14 @@
 <!-- If you're reading this, here is a wonderful anime recommendation: Suzume no Tojimari -->
 
-<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="33.3%" />
+<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="35%" />
 
-# <span style="color: DarkSlateGrey">Hello, I'm Ken (he/him) 👋 </span>
+# <span style="color: DarkSlateGrey"> Hello, I'm Ken (he/him) 👋 </span>
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
-> `algorithms`, `data structures`, `systems programming`, `oop`
+
+> `algorithms`, `computer architecture`, `data structures`, `discrete mathematics`, 
+> `linear algebra`, `object-oriented programming`, `systems programming`
 
 Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
@@ -15,7 +17,7 @@ Technician at [Yale Student Technology Collaborative](https://studenttechnology.
   - 💻 I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
   - 🔌 I also frequent: `.c`, `.cc`, `.rs`, `.py`, `.sql`, `.rkt`, `.tex`
   - 🛠️ I specialize in: `Nuxt`, `Vue`, `React`
-  - 🔭 Seeking careers in: `consulting`, `software engineering`, `...`
+  - 🔭 Seeking careers in: `swe`, `consulting`, `investment banking`, `...`
 
 ##
 
