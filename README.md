@@ -1,6 +1,6 @@
 <!-- If you're reading this, here is a wonderful anime recommendation: Suzume no Tojimari -->
 
-<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="35%" />
+<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="33.3%" />
 
 # <span style="color: DarkSlateGrey"> Hello, I'm Ken (he/him) 👋 </span>
 
