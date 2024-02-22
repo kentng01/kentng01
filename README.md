@@ -1,18 +1,26 @@
-# <span style="color: DarkSlateGrey">Hello, I'm Ken (he/him) 👋 </span>
-**こんにちは、僕はケンです。**
+<!-- If you're reading this, here is a wonderful anime recommendation: Suzume no Tojimari -->
 
-  - 🌱 I am a sophomore at Yale University pursuing a BS in Computer Science and a BA in East Asian Studies.
-  - 🗻 I dedicate my free time to the rigorous study of Japanese, with hopes of taking on professional careers in Japan.
-  - 🔌 I provide information technology support as a *Student Technician* at the Yale Student Technology Collaborative, including hardware repair and software troubleshooting.
-  - 💻 I orchestrate YHack as *Director of Technology*, specifically the developmental and web execution of the Yale Hackathon, an annual event bringing in thousands of students around the world to build meaningful projects.
-  - 🔭 I develop for the [Yale Computer Society](https://www.yalecomputersociety.org/) as a *Full Stack Engineer* for CourseTable, an intuitive course browsing platform used by thousands of students at Yale University..
+<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="25%" />
 
-## Skills
-  - 🕹️ Proficiency in C, JavaScript/TypeScript, Accessible HTML, CSS/SCSS, Python, SQL, Racket, LaTeX.
-  - 🛠️ Specialization in Nuxt and Vue. Additionally familiar with frameworks such as React.
-  - 💬 Conversable in English *(Native)*, Fuzhounese *(Native)*, Mandarin Chinese *(Proficient)*, Japanese *(Business, N2 In-Progress Study)*.
+## <span style="color: DarkSlateGrey">Hello, I'm Ken (he/him) 👋 </span>
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFmOHh5OWY4NTJudDl6aHhzNmQwNjF0cjZrb2Y2aXp1ZWNoZzQyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB3MktbhWQPW8/giphy.gif)
+Sophomore at Yale University pursuing *B.S. in Computer Science* and *B.A. in East Asian Studies*.
+
+Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
+Director of Technology at [Hack Yale](https://yhack.org/).<br>
+Technician at [Yale Student Technology Collaborative](https://studenttechnology.yale.edu/student-resources/about-stc).<br>
+
+  - 💻 I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
+  - 🔌 I also frequent: `.c`, `.cc`, `.rs`, `.py`, `.sql`, `.rkt`, `.tex`
+  - 🛠️ I specialize in: `Nuxt`, `Vue`, `React`
+  - 🔭 Seeking careers in: `consulting`, `software engineering`, `...`
+
+##
+
+  - 🏯 Speaker of Mandarin Chinese and Japanese.
+  - 🌠 Problem-solver with dreams of pursuing careers in Japan.  
+
+`For more`, please check out my [portfolio](https://kenneru.netlify.app/).
 
 <!--
 **kentng01/kentng01** is a ✨ _special_ ✨ repository because 
