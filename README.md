@@ -3,7 +3,7 @@
 # <span style="color: DarkSlateGrey"> Hello, I'm Ken (he/him) 👋 </span>
 
 <!-- <img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="30%" /> -->
-<img src="https://github.com/kentng01/kentng01/assets/57498837/583daee2-1fa6-4e0b-8b12-cef187752052" align="right" width="27.5%" />
+<img src="https://github.com/kentng01/kentng01/assets/57498837/583daee2-1fa6-4e0b-8b12-cef187752052" align="right" width="29%" />
 
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
