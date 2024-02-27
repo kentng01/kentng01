@@ -1,8 +1,8 @@
 <!-- If you're reading this, here is a wonderful anime recommendation: Suzume no Tojimari -->
 
-<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="35%" />
-
 # <span style="color: DarkSlateGrey"> Hello, I'm Ken (he/him) 👋 </span>
+
+<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="30%" />
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
