@@ -7,7 +7,7 @@
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
 
-> `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`
+> `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
 > `linear algebra`, `object-oriented programming`, `systems programming`,
 
 Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
