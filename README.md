@@ -2,13 +2,15 @@
 
 # <span style="color: DarkSlateGrey"> Hello, I'm Ken (he/him) 👋 </span>
 
-<img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="30%" />
+<!-- <img src="https://github.com/kentng01/kentng01/assets/57498837/617f32fb-0121-465c-aac1-fe7f887c551d" align="right" width="30%" /> -->
+<img src="https://github.com/kentng01/kentng01/assets/57498837/583daee2-1fa6-4e0b-8b12-cef187752052" align="right" width="27.5%" />
+
 
 **Sophomore @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
 
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
-> `linear algebra`, `object-oriented programming`, `systems programming`,
+> `linear algebra`, `object-oriented programming`, `systems programming`
 
 Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
@@ -22,7 +24,7 @@ Technician at [Yale Student Technology Collaborative](https://studenttechnology.
 ##
 
   - 🏯 Speaker of Mandarin Chinese and Japanese.
-  - 🌠 Problem-solver with dreams of pursuing careers in Japan.  
+  - 🌠 Problem-solver with dreams of pursuing careers in Japan.
 
 `For more`, please check out my [portfolio](https://kenneru.netlify.app/).
 
