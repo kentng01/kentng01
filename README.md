@@ -8,7 +8,7 @@
   width="29%" 
   />
 
-**Sophomore @ Yale University** pursuing simultaneous studies in<br>
+**Rising Junior @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science* and *B.A. in East Asian Studies*.<br>
 
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
