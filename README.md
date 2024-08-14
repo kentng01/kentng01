@@ -14,14 +14,14 @@
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
 > `linear algebra`, `object-oriented programming`, `systems programming`
 
-Full-Stack Developer at [CourseTable](https://coursetable.com/).<br>
+Software Engineer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
 Technician at [Yale Student Technology Collaborative](https://studenttechnology.yale.edu/student-resources/about-stc).<br>
 
   - 💻 I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
   - 🔌 I also frequent: `.c`, `.cc`, `.rs`, `.py`, `.sql`, `.rkt`, `.tex`
   - 🛠️ I specialize in: `Nuxt`, `Vue`, `React`
-  - 🔭 Seeking careers in: `swe`, `consulting`, `investment banking`, `...`
+  - 🔭 Seeking careers in: `swe`, `strategy consulting`, `investment banking`, `...`
 
 ##
 
