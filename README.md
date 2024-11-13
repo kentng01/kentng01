@@ -12,7 +12,7 @@
 *B.S. in Computer Science and Economics* and *B.A. in East Asian Studies*.<br>
 
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
-> `linear algebra`, `object-oriented programming`, `systems programming`, `game theory`
+> `linear algebra`, `object-oriented design`, `systems programming`, `econometrics`, `algorithmic game theory`
 
 Software Engineer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
