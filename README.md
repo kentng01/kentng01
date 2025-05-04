@@ -8,25 +8,25 @@
   width="29%" 
   />
 
-**Junior @ Yale University** pursuing simultaneous studies in<br>
+**Rising Senior @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science and Economics* and *B.A. in East Asian Studies*.<br>
 
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
-> `linear algebra`, `object-oriented design`, `systems programming`, `econometrics`, `algorithmic game theory`
+> `linear algebra`, `object-oriented design`, `systems programming`, `econometrics`, `algorithmic game theory`, `spectral graph theory`, `computational economics`
 
 Software Engineer at [CourseTable](https://coursetable.com/).<br>
 Director of Technology at [Hack Yale](https://yhack.org/).<br>
-Technician at [Yale Student Technology Collaborative](https://studenttechnology.yale.edu/student-resources/about-stc).<br>
+Former Technician at [Yale Student Technology Collaborative](https://studenttechnology.yale.edu/student-resources/about-stc).<br>
 
   - 💻 I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`
-  - 🔌 I also frequent: `.c`, `.cc`, `.rs`, `.py`, `.sql`, `.rkt`, `.tex`
+  - 🔌 I also frequent: `.c`, `.py`, `.tex`, `.R`, `.jl`
   - 🛠️ I specialize in: `Nuxt`, `Vue`, `React`
   - 🔭 Seeking careers in: `swe`, `strategy consulting`, `investment banking`, `...`
 
 ##
 
   - 🏯 Speaker of Mandarin Chinese and Japanese.
-  - 🌠 Problem-solver with dreams of pursuing careers in Japan.
+  - 🌠 Problem-solver with intentions of pursuing careers in Japan.
 
 `For more`, please check out my [portfolio](https://kenneru.netlify.app/).
 
