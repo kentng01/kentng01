@@ -8,7 +8,7 @@
   width="29%" 
   />
 
-**Rising Senior @ Yale University** pursuing simultaneous studies in<br>
+**Senior @ Yale University** pursuing simultaneous studies in<br>
 *B.S. in Computer Science and Economics* and *B.A. in East Asian Studies*.<br>
 
 > `algorithms`, `data structures`, `discrete mathematics`, `computer architecture`,
