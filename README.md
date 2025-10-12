@@ -28,7 +28,7 @@ Former Technician at [Yale Student Technology Collaborative](https://studenttech
   - 🏯 Speaker of Mandarin Chinese and Japanese.
   - 🌠 Problem-solver with intentions of pursuing careers in Japan.
 
-`For more`, please check out my [portfolio](https://kenneru.netlify.app/).
+<!-- `For more`, please check out my [portfolio](https://kenneru.netlify.app/). -->
 
 <!--
 **kentng01/kentng01** is a ✨ _special_ ✨ repository because 
